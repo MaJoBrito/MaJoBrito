@@ -1,4 +1,4 @@
-# María José Brito Machicela
+# María José Brito
 ### Estudiante de Ciencias de la Computación | Apasionada en Machine Learning, Datos y Automatización
 
 Actualmente curso el noveno ciclo de Ciencias de la Computación en la Universidad de Cuenca. Me dedico a la investigación y desarrollo de soluciones tecnológicas escalables, integrando Data Science, Big Data y Machine Learning para resolver problemas complejos con un enfoque ético y de impacto social. Además, cuento con experiencia práctica en la automatización de flujos de trabajo documentales y desarrollo de inteligencia de negocios para entornos corporativos.

@@ -29,7 +29,7 @@ Además, cuento con experiencia práctica en la automatización de flujos de tra
 <details open>
 <summary><b>Lenguajes de Programación</b></summary>
 <br>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-EBF3F9?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/Java-FFF5E6?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-EAF2F8?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C/C++" />
@@ -40,7 +40,7 @@ Además, cuento con experiencia práctica en la automatización de flujos de tra
 <details>
 <summary><b>Frameworks y Desarrollo Frontend</b></summary>
 <br>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-E1F0FD?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
   <img src="https://img.shields.io/badge/React-E1F4FA?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
@@ -49,7 +49,7 @@ Además, cuento con experiencia práctica en la automatización de flujos de tra
 <details>
 <summary><b>Automatización e Inteligencia de Negocios</b></summary>
 <br>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Power_Apps-F4E9FA?style=for-the-badge&logo=powerapps&logoColor=742774" alt="Power Apps" />
   <img src="https://img.shields.io/badge/Power_Automate-E6F0FA?style=for-the-badge&logo=powerautomate&logoColor=0066FF" alt="Power Automate" />
   <img src="https://img.shields.io/badge/Power_BI-FDF3E1?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
@@ -61,7 +61,7 @@ Además, cuento con experiencia práctica en la automatización de flujos de tra
 <details>
 <summary><b>Infraestructura y Datos</b></summary>
 <br>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-E6F7FF?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-EBF3FA?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/AWS-FFF9E6?style=for-the-badge&logo=amazon-aws&logoColor=232F3E" alt="AWS" />
@@ -71,7 +71,7 @@ Además, cuento con experiencia práctica en la automatización de flujos de tra
 <details>
 <summary><b>Hardware y Prototipado</b></summary>
 <br>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Raspberry_Pi-FFE6EC?style=for-the-badge&logo=raspberry-pi&logoColor=C51A4A" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Arduino-E1F1F0?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino" />
 </p>
@@ -100,15 +100,11 @@ Además, cuento con experiencia práctica en la automatización de flujos de tra
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIxYWNjM2YyYzhlMzFmYjM1ZWE0OWVlYzljZmYyZWE5MTE0OWM0NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif" width="25"> Contacto Profesional
 
-<p align="left">
+<p align="center">
   <a href="mailto:mariaj.brito@ucuenca.edu.ec">
     <img src="https://img.shields.io/badge/Correo_Institucional-FCE4EC?style=for-the-badge&logo=microsoftoutlook&logoColor=black" alt="Correo Institucional" />
   </a>
   <a href="mailto:majobm1912@gmail.com">
     <img src="https://img.shields.io/badge/Correo_Personal-F8BBD0?style=for-the-badge&logo=gmail&logoColor=black" alt="Correo Personal" />
   </a>
-</p>
-
-<p align="right">
-  <img src="https://capsule-render.vercel.app/render?type=slice&color=ffebee&height=100&section=footer&text=Created%20by%20María%20José%20Brito&fontSize=20&fontAlignY=50" alt="Footer Maria Jose" />
 </p>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=ffebee&height=200&section=header&text=María%20José%20Brito&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20Student%20|%20ML%20|%20Data%20|%20Automation&descAlignY=60&descFontSize=20&textBg=false" alt="Banner Maria Jose" />
+  <img src="banner_Majo.png" alt="Banner Decorativo" width="100%">
 </p>
 
 ## Hola! soy María José Brito 

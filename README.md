@@ -10,11 +10,22 @@ Además, cuento con experiencia práctica en la automatización de flujos de tra
 - **Proyecto de Titulación:** `MoViFed` - Framework multimodal de aprendizaje federado para la detección de seguridad doméstica en dispositivos edge, priorizando la privacidad de los datos.
 - **Áreas de Estudio:** Modelos de aprendizaje supervisado y no supervisado, analítica predictiva y arquitecturas distribuidas.
 - **Experiencia Operativa:** Automatización de procesos empresariales e implementación de soluciones de Business Intelligence (BI).
+
 - 📍 **Ubicación:** Cuenca, Ecuador
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
+## Experiencia Profesional
+
+- **CELEC EP | Soporte en Gerencia de Gestión Organizacional:** Análisis de datos y desarrollo de inteligencia de negocios mediante Power BI para la optimización y respaldo en la toma de decisiones estratégicas.
+- **ETAPA EP | Automatización de Procesos Administrativos:** Diseño e implementación de flujos de trabajo automatizados para optimizar la gestión documental y operativa empresarial.
+- **Ayudante de Investigación:** Procesamiento de datos y administración estructurada de repositorios documentales, garantizando la integridad de la información en proyectos investigativos.
+- **Desarrollo de Software y Arquitecturas (Académico):** Ejecución continua de proyectos tecnológicos complejos orientados a la práctica, abarcando desde sistemas distribuidos e IoT hasta modelos de Machine Learning.
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIxYWNjM2YyYzhlMzFmYjM1ZWE0OWVlYzljZmYyZWE5MTE0OWM0NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif" width="25"> Stack Tecnológico
 

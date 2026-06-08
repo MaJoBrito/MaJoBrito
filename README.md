@@ -32,8 +32,6 @@ Actualmente curso el noveno ciclo de Ciencias de la Computación en la Universid
 ### Infraestructura, Datos y Orquestación
 ![Docker](https://img.shields.io/badge/Docker-E6F7FF?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-EBF3FA?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![AWS](https://img.shields.io/badge/AWS-FFF9E6?style=for-the-badge&logo=amazon-aws&logoColor=232F3E)
-
 ### Hardware y Prototipado
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-FFE6EC?style=for-the-badge&logo=raspberry-pi&logoColor=C51A4A)
 ![Arduino](https://img.shields.io/badge/Arduino-E1F1F0?style=for-the-badge&logo=arduino&logoColor=00979D)

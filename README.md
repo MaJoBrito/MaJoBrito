@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=MaJoBrito&label=Perfil%20Vistas&color=f48fb1&style=flat-square" alt="Vistas de perfil" />
 </p>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdiY2FmOGMzYmVhNzNlYjA1YWJkYzBlM2RlYzdmYzQyNmI5MDY5OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7bu3XilJ5BOiSGic/giphy.gif" width="25"> Sobre Mí
+## Hola! soy María José Brito 
 
 Actualmente curso el noveno ciclo de Ciencias de la Computación en la Universidad de Cuenca. Me dedico a la investigación y desarrollo de soluciones tecnológicas escalables, integrando **Data Science, Big Data y Machine Learning** para resolver problemas complejos con un enfoque ético y de impacto social. Además, cuento con experiencia práctica en la automatización de flujos de trabajo documentales y desarrollo de inteligencia de negocios para entornos corporativos.
 

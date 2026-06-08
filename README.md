@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_Majo.png" alt="Banner Decorativo" width="100%">
+  <img src="Banner_Majo.png" alt="Banner Decorativo" width="100%">
 </p>
 
 ## Hola! soy María José Brito 

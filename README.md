@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=ffebee&height=200&section=header&text=María%20José%20Brito&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20Student%20|%20ML%20|%20Data%20|%20Automation&descAlignY=60&descFontSize=20&textBg=false" alt="Banner Maria Jose" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaJoBrito&label=Perfil%20Vistas&color=f48fb1&style=flat-square" alt="Vistas de perfil" />
-</p>
-
 ## Hola! soy María José Brito 
 
 Actualmente curso el noveno ciclo de Ciencias de la Computación en la Universidad de Cuenca. Me dedico a la investigación y desarrollo de soluciones tecnológicas escalables, integrando **Data Science, Big Data y Machine Learning** para resolver problemas complejos con un enfoque ético y de impacto social. Además, cuento con experiencia práctica en la automatización de flujos de trabajo documentales y desarrollo de inteligencia de negocios para entornos corporativos.

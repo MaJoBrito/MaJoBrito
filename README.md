@@ -10,8 +10,7 @@ Además, cuento con experiencia práctica en la automatización de flujos de tra
 - **Proyecto de Titulación:** `MoViFed` - Framework multimodal de aprendizaje federado para la detección de seguridad doméstica en dispositivos edge, priorizando la privacidad de los datos.
 - **Áreas de Estudio:** Modelos de aprendizaje supervisado y no supervisado, analítica predictiva y arquitecturas distribuidas.
 - **Experiencia Operativa:** Automatización de procesos empresariales e implementación de soluciones de Business Intelligence (BI).
-
-- 📍 **Ubicación:** Cuenca, Ecuador
+- **Ubicación:** Cuenca, Ecuador
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -24,7 +23,7 @@ Además, cuento con experiencia práctica en la automatización de flujos de tra
 - **Ayudante de Investigación:** Procesamiento de datos y administración estructurada de repositorios documentales, garantizando la integridad de la información en proyectos investigativos.
 - **Desarrollo de Software y Arquitecturas (Académico):** Ejecución continua de proyectos tecnológicos complejos orientados a la práctica, abarcando desde sistemas distribuidos e IoT hasta modelos de Machine Learning.
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIxYWNjM2YyYzhlMzFmYjM1ZWE0OWVlYzljZmYyZWE5MTE0OWM0NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif" width="25"> Stack Tecnológico
+## Stack Tecnológico
 
 <details open>
 <summary><b>Lenguajes de Programación</b></summary>
@@ -64,7 +63,6 @@ Además, cuento con experiencia práctica en la automatización de flujos de tra
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-E6F7FF?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-EBF3FA?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-FFF9E6?style=for-the-badge&logo=amazon-aws&logoColor=232F3E" alt="AWS" />
 </p>
 </details>
 
@@ -81,7 +79,7 @@ Además, cuento con experiencia práctica en la automatización de flujos de tra
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdiNmJmNmVjMDk4ZjdmZTcxMGQ5NjlmYTVjMzM2NDNlNjI1OWYwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/W5mNCOQ09Xq6f2nB8F/giphy.gif" width="25"> Proyectos Destacados
+## Proyectos Destacados
 
 <div align="center">
 
@@ -98,7 +96,7 @@ Además, cuento con experiencia práctica en la automatización de flujos de tra
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIxYWNjM2YyYzhlMzFmYjM1ZWE0OWVlYzljZmYyZWE5MTE0OWM0NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif" width="25"> Contacto Profesional
+## Contacto Profesional
 
 <p align="center">
   <a href="mailto:mariaj.brito@ucuenca.edu.ec">

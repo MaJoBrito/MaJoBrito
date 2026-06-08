@@ -7,7 +7,7 @@
 Actualmente curso el noveno ciclo de Ciencias de la Computación en la Universidad de Cuenca. Me dedico al desarrollo de soluciones tecnológicas escalables, integrando **Data Science, Big Data y Machine Learning** para resolver problemas.
 Además, cuento con experiencia práctica en la automatización de flujos de trabajo documentales y desarrollo de inteligencia de negocios para entornos corporativos.
 
-- **Proyecto de Titulación:** `MoViFed` — Framework multimodal de aprendizaje federado para la detección de seguridad doméstica en dispositivos edge, priorizando la privacidad de los datos.
+- **Proyecto de Titulación:** `MoViFed` - Framework multimodal de aprendizaje federado para la detección de seguridad doméstica en dispositivos edge, priorizando la privacidad de los datos.
 - **Áreas de Estudio:** Modelos de aprendizaje supervisado y no supervisado, analítica predictiva y arquitecturas distribuidas.
 - **Experiencia Operativa:** Automatización de procesos empresariales e implementación de soluciones de Business Intelligence (BI).
 - 📍 **Ubicación:** Cuenca, Ecuador
